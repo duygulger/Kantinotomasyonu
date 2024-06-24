@@ -59,6 +59,7 @@ Mevcut bir hesapla giriş yapın veya yeni bir hesap oluşturun.
 - Yönetici hesabınızla giriş yapın.
 - Ürün ekleyin, silin veya güncelleyin.
 - Kullanıcı hesaplarını yönetin.
+- kampuskantin/dark klasöründen ise adminpanele erişebilirsiniz.
 
 ## Katkıda Bulunma
 
